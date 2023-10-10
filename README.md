@@ -2,6 +2,9 @@
 
 - 🔭 Atualmente trabalhando como Estagiário TI.
 - 🌱 Atualmente graduando em Tecnologia da informação e estudando Typescript e banco de dados.
+
+<br>
+
   <div>
   <a href="https://github.com/Brdfigueira">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=Brdfigueira&show_icons=true&theme=dark">
