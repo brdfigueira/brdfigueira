@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Breno Figueira
 
-- 🔭 Atualmente trabalhando como Estagiário TI.
-- 🌱 Atualmente graduando em Tecnologia da informação e estudando Typescript e banco de dados.
+- 🔭 Estagiário TI.
+- 🌱 Graduando em Tecnologia da informação.
+- 🌱 Evoluindo sempre.
 
 <br>
 
