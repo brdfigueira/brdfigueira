@@ -1,8 +1,9 @@
 ## Olá! Eu sou o Breno Figueira
 
-- 🔭 Estagiário TI.
 - 🌱 Graduando em Tecnologia da informação.
 - 🌱 Evoluindo sempre.
+
+Nem toda trajetória é igual, mas todas começam com um passo.
 
 <br>
 
